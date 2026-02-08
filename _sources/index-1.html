@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, viewport-fit=cover" />
+    <title>EAI Studio 10.0</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.css">
+    <style>
+      html, body {
+        height: 100%;
+        width: 100%;
+        overflow: hidden;
+        overscroll-behavior: none;
+        font-family: 'Inter', sans-serif;
+        touch-action: manipulation;
+        -webkit-tap-highlight-color: transparent;
+      }
+      .scrollbar-hide::-webkit-scrollbar { display: none; }
+      .scrollbar-hide { -ms-overflow-style: none; scrollbar-width: none; }
+      input, textarea, select { font-size: 16px; }
+      /* KaTeX specific fixes for font loading */
+      .katex-display { margin: 1em 0; overflow-x: auto; overflow-y: hidden; }
+    </style>
+    <script type="importmap">
+    {
+      "imports": {
+        "react": "https://esm.sh/react@^19.2.3",
+        "react-markdown": "https://esm.sh/react-markdown@9?bundle",
+        "react-router-dom": "https://esm.sh/react-router-dom@6.30.1?bundle",
+        "remark-gfm": "https://esm.sh/remark-gfm@4?bundle",
+        "remark-math": "https://esm.sh/remark-math@6?bundle",
+        "katex": "https://esm.sh/katex@0.16.9",
+        "rehype-katex": "https://esm.sh/rehype-katex@7?bundle",
+        "react-dom/": "https://esm.sh/react-dom@^19.2.3/",
+        "react/": "https://esm.sh/react@^19.2.3/"
+      }
+    }
+    </script>
+<link rel="stylesheet" href="/index.css">
+</head>
+<body>
+    <div id="root" style="height: 100%;"></div>
+<script type="module" src="/index.tsx"></script>
+</body>
+</html>
