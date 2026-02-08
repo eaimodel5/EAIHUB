@@ -1,0 +1,627 @@
+[
+  {
+    "path": ".env.local",
+    "sha256": "2e5200a1a071222d280debbe2feb2771036cdb63d6048fd3798520e59f5f6a84",
+    "bytes": 35
+  },
+  {
+    "path": ".gitignore",
+    "sha256": "fe718e7babb14f3cbad2d97f08889b9ce5215ed3fe0e43b2b8cfbfb3b9b844e8",
+    "bytes": 253
+  },
+  {
+    "path": "AdminPanel.tsx",
+    "sha256": "4e8d0e45e93a86a0b31c3da4bebb401fd25eb4d29489a551bfd8acf665316097",
+    "bytes": 743
+  },
+  {
+    "path": "App-1.tsx",
+    "sha256": "6154ff5a722a73198bacc57cc3eb0fc79206ff5cd5217d5c70e755f84048c19f",
+    "bytes": 1460
+  },
+  {
+    "path": "App.tsx",
+    "sha256": "0474e43195fea0cab5bae390decdfecbd624f81cffdb4b3bc9e07932f52fd2f6",
+    "bytes": 1804
+  },
+  {
+    "path": "BootSequence.tsx",
+    "sha256": "1d0bea612addf27b16e7d637856b874b82b41f848b7189218bedb40c46c13327",
+    "bytes": 2156
+  },
+  {
+    "path": "ChatInterface.tsx",
+    "sha256": "bc4c5e4c504f2a5c7d2a6fd7e1861ff626e7a55d52fffc953cd598e39a684e5b",
+    "bytes": 26098
+  },
+  {
+    "path": "CommandPalette.tsx",
+    "sha256": "47036e51cfef10d5b0870690528ee46c42712f57acf487f3b8233828b7c44bc4",
+    "bytes": 4399
+  },
+  {
+    "path": "Dashboard.tsx",
+    "sha256": "8d2ae5aed0ecad5b8b956562650013541e4ad16067a1e59888708603bbe013de",
+    "bytes": 12332
+  },
+  {
+    "path": "DidacticLegend.tsx",
+    "sha256": "db2924627e440c5a238c85ca9974eb50e32232d6bae96307d1c08de50411c4c3",
+    "bytes": 7515
+  },
+  {
+    "path": "GameNeuroLinker.tsx",
+    "sha256": "0e2bc478a76e1209762e25c175b7e4ba0f286139d5b6745871d3f8a8a67251da",
+    "bytes": 16416
+  },
+  {
+    "path": "MessageBubble.tsx",
+    "sha256": "6df46d9c692dbe11b4dfa5ee8c868be20c8690cac01d0096b260a907299c53cc",
+    "bytes": 5547
+  },
+  {
+    "path": "ProfileSetup.tsx",
+    "sha256": "d210561429104cf7c1fa70187469bb4cc0d6d0a38c35a3af4f3e7f3bd37f4cdd",
+    "bytes": 12525
+  },
+  {
+    "path": "README-1.md",
+    "sha256": "c7c6685b13329a16606b24a6f0cf74e26ddebcbe9b3c602f9588d01e3ac24dac",
+    "bytes": 228
+  },
+  {
+    "path": "README.md",
+    "sha256": "bd6ac51bdda83f6178ea0a899486e1c190ddd36f07e2a3e115f3db9e2409036b",
+    "bytes": 193
+  },
+  {
+    "path": "SecretLogin.tsx",
+    "sha256": "0ac443d1a05b32f9d4ebaab65ad2db4431a28679deefa886e849451a4e347a1f",
+    "bytes": 3202
+  },
+  {
+    "path": "StudentStudio.tsx",
+    "sha256": "cad2e491322d814f49adbd05aca2843bb462806c5241bdafe2f7c8cef8b06d30",
+    "bytes": 186
+  },
+  {
+    "path": "TeacherCockpit.tsx",
+    "sha256": "30e8aa241f127fd29355189a1c61f98da8b0bee277fc8cf3801b37fc4c59957e",
+    "bytes": 4628
+  },
+  {
+    "path": "TechReport.tsx",
+    "sha256": "3ee21c844cf1b0167001c441fcd487ea52d9ccb8bbbb8385287e055e5762e241",
+    "bytes": 44726
+  },
+  {
+    "path": "analytics.ts",
+    "sha256": "93395fb24e54e483ab046832fd03fc52246afc24c0febf76541d6b2b5e2934b0",
+    "bytes": 745
+  },
+  {
+    "path": "analyticsService.ts",
+    "sha256": "8c2d9287423977f3f76b9c1cd18977ba0f220709d5087dcc14ff28a503af735d",
+    "bytes": 280
+  },
+  {
+    "path": "apiClient.ts",
+    "sha256": "3ae8e868dd30dc99cc39bf3f4ff92034f38e9cb4826a72e65330213f2ac6f32d",
+    "bytes": 700
+  },
+  {
+    "path": "apps/api/src/data/curriculum.ts",
+    "sha256": "8cbdc5561a08633d7ec48a9028d987fac15effa293a1ff34430fad6240b6b8ad",
+    "bytes": 19431
+  },
+  {
+    "path": "apps/api/src/data/ssot.ts",
+    "sha256": "0113e0578d05325e42a595bf799fda79c9491f2bea7738ce999e5770e25ceb0c",
+    "bytes": 39979
+  },
+  {
+    "path": "apps/api/src/orchestrator.ts",
+    "sha256": "26fe47e3f9b1885dfcb50c6e4f3a401355a7ca2eb83cb40d6cccd6dcf429efb2",
+    "bytes": 11301
+  },
+  {
+    "path": "apps/api/src/routes/chat.ts",
+    "sha256": "9d98e10c6082df210f8f88861bc8cd387f7715e69696986e738141238cd39c87",
+    "bytes": 880
+  },
+  {
+    "path": "apps/api/src/routes/nudge.ts",
+    "sha256": "d8db4c177bcadfbd26c15f432971d4bf6f48ace2be1b0b6368cbd8e1c6990daf",
+    "bytes": 898
+  },
+  {
+    "path": "apps/web/src/App.tsx",
+    "sha256": "105af0036f9a129b94a5ebf2bc15e6343939c967f207edc4acd0d20114809220",
+    "bytes": 1971
+  },
+  {
+    "path": "apps/web/src/components/BootSequence.tsx",
+    "sha256": "226387ce9053065df88b323f7f9873547e895c10f78b695569955ba3e4fb6b51",
+    "bytes": 2154
+  },
+  {
+    "path": "apps/web/src/components/ChatInterface.tsx",
+    "sha256": "7ea4cbce99f604e5e7656dd2b12ca2604e90fe11c03d393a3eeb84776de9622c",
+    "bytes": 28588
+  },
+  {
+    "path": "apps/web/src/components/ChatView.tsx",
+    "sha256": "b48663b2cc64508bb3bacff2223c095f9de7acb3bf6259b4079d155532bc4b33",
+    "bytes": 8859
+  },
+  {
+    "path": "apps/web/src/components/CommandPalette.tsx",
+    "sha256": "434fd6b92a01802815ca38b9be9d89844f2a016fad72215e7d2f287ad3c72fc4",
+    "bytes": 4398
+  },
+  {
+    "path": "apps/web/src/components/Dashboard.tsx",
+    "sha256": "a385d5c2a6c51f20b18d27385464a5d7b6c8567614395aa7605b4cc894f6e1ed",
+    "bytes": 13733
+  },
+  {
+    "path": "apps/web/src/components/DidacticLegend.tsx",
+    "sha256": "26bb8721e33026000d618173c4018e812d075712ec4b03b6ebc3a1ed3806d14a",
+    "bytes": 6854
+  },
+  {
+    "path": "apps/web/src/components/GameNeuroLinker.tsx",
+    "sha256": "2f6c88994510b1bdd6f0f59ec9af84967dee8b86403d03ab4b6265ff3902ac30",
+    "bytes": 15565
+  },
+  {
+    "path": "apps/web/src/components/MarkdownView.tsx",
+    "sha256": "243a48526a5a3345a0068e91eeccefdbd5a667207584d75e0635378d1328fc57",
+    "bytes": 1529
+  },
+  {
+    "path": "apps/web/src/components/MessageBubble.tsx",
+    "sha256": "9b4af3f7ede2bd090641934cf7cb2ddba1d4a0ab0f2b5451a17370172fdbb023",
+    "bytes": 5545
+  },
+  {
+    "path": "apps/web/src/components/ProfileSetup.tsx",
+    "sha256": "9a61531e18ea65e407cfbe8392109c2a288bf650421aad55954d6c01c78af0ab",
+    "bytes": 17742
+  },
+  {
+    "path": "apps/web/src/components/TechReport.tsx",
+    "sha256": "9ba2c34397504b031523d6a830c2d655038338bd68cfa8caab2885b54a62edbc",
+    "bytes": 27603
+  },
+  {
+    "path": "apps/web/src/data/curriculum.ts",
+    "sha256": "8cbdc5561a08633d7ec48a9028d987fac15effa293a1ff34430fad6240b6b8ad",
+    "bytes": 19431
+  },
+  {
+    "path": "apps/web/src/data/ssot.ts",
+    "sha256": "ec57ba74a210f3f64eee5df4989f50cc534fe046a42d28f9d1b7a29753a67b0a",
+    "bytes": 48185
+  },
+  {
+    "path": "apps/web/src/index.css",
+    "sha256": "fb4e952e8b49eb95b249b2ec3b79e9db96df29dda1ac84da3f6ab610ef4a5698",
+    "bytes": 779
+  },
+  {
+    "path": "apps/web/src/routes/AdminPanel.tsx",
+    "sha256": "e4b15263b82e11c48af713e098203fd9583b1d6d47199c931f06a047ecf77b45",
+    "bytes": 26978
+  },
+  {
+    "path": "apps/web/src/routes/ConceptPage.tsx",
+    "sha256": "2aba99017cdc3c57354f47af570d4b28bd64ed4376f663ed9a7cd6c129d8ecbf",
+    "bytes": 17707
+  },
+  {
+    "path": "apps/web/src/routes/LandingPage.tsx",
+    "sha256": "c82750e9052f3ecdf4cdb148a9ab7184163a46f3cdbd85c2fd53889b6575ffc8",
+    "bytes": 11551
+  },
+  {
+    "path": "apps/web/src/routes/StudentStudio.tsx",
+    "sha256": "cad2e491322d814f49adbd05aca2843bb462806c5241bdafe2f7c8cef8b06d30",
+    "bytes": 186
+  },
+  {
+    "path": "apps/web/src/routes/TeacherCockpit.tsx",
+    "sha256": "76d1e2fdeef7e908507528e87b869eb4b54b817e7f20cde1dd5a37a6aa0e5578",
+    "bytes": 23544
+  },
+  {
+    "path": "apps/web/src/services/adminService.ts",
+    "sha256": "c214f21d1f5544a7d618a4669c9820f994c0575b37663b22c113bfb55329e492",
+    "bytes": 9871
+  },
+  {
+    "path": "apps/web/src/services/analyticsService.ts",
+    "sha256": "8619a8d35728926b702d98f33cf034678d01f468690886debcb6dad418e03b7f",
+    "bytes": 7000
+  },
+  {
+    "path": "apps/web/src/services/apiClient.ts",
+    "sha256": "db79aa264463a0eedc3081e50959bf45d87edf4ad9fdfa686d7bac0d1a757cb3",
+    "bytes": 978
+  },
+  {
+    "path": "apps/web/src/services/assignmentService.ts",
+    "sha256": "b6eac81628d61aedd46dca38463e5bd3466b03ef9e29f5a3a8314681eada1b63",
+    "bytes": 1533
+  },
+  {
+    "path": "apps/web/src/services/geminiService.ts",
+    "sha256": "e8b18dd583583cde66df1839f08138d31d9897171e6a79c8f41e6e08bffddb05",
+    "bytes": 10825
+  },
+  {
+    "path": "apps/web/src/services/identity.ts",
+    "sha256": "90c90836806efb429a30cdd9c4c43c70fbeb26255b1dbfc23c0bbfda022a155e",
+    "bytes": 274
+  },
+  {
+    "path": "apps/web/src/services/masteryService.ts",
+    "sha256": "2ef8c91035a0166958aa985bbdbc77c58ff1cb312e0320d9c1d4933b101b3ac9",
+    "bytes": 1916
+  },
+  {
+    "path": "apps/web/src/services/profileService.ts",
+    "sha256": "3bc66d6e5fcfaaac8251793c6c5f74ccb615f69a2b35b36e66ea3005b46fe99b",
+    "bytes": 615
+  },
+  {
+    "path": "apps/web/src/types.ts",
+    "sha256": "7d907f04170e91d15c6ce884b04d8c400ec85709c71b7b021f0b4145e9cc3ee9",
+    "bytes": 3693
+  },
+  {
+    "path": "apps/web/src/utils/diagnostics.ts",
+    "sha256": "8eb2828956422ed02bddab00eb38ac16a0826187552d9ac7128a1944c060e9a9",
+    "bytes": 2649
+  },
+  {
+    "path": "apps/web/src/utils/eaiLearnAdapter.ts",
+    "sha256": "f2c076ebf21d672bab53b05b97e2783e1cb8838659261a8292dc46683ca7d10b",
+    "bytes": 13138
+  },
+  {
+    "path": "apps/web/src/utils/ssotParser.ts",
+    "sha256": "f391cbfb1aa630fcef3850eff00fd3420e6b521eda5fa662cedd290d5a91ffea",
+    "bytes": 3117
+  },
+  {
+    "path": "assignment.ts",
+    "sha256": "c14d49e232185bb41ef2d209cb5816fd051e44157e48e3f1bac42132843c288a",
+    "bytes": 1564
+  },
+  {
+    "path": "assignmentService.ts",
+    "sha256": "44a9148e0f53b3b7f583da8461fcbdf6d3ce4876c8df91e5c4fc5ce664b22011",
+    "bytes": 780
+  },
+  {
+    "path": "chat.ts",
+    "sha256": "f0ddd3cecd4f0ed165a7b8d48cd139c6083ab14d87ea55c45c437488c43f5a84",
+    "bytes": 848
+  },
+  {
+    "path": "components/BootSequence.tsx",
+    "sha256": "6e5016eaa2dc5a3b076b946b7ae7e90d7f82c5b14fb3693063930a1917fd9e49",
+    "bytes": 1859
+  },
+  {
+    "path": "components/ChatInterface.tsx",
+    "sha256": "521459c9ee060f47a495bcbb2ad9a82ba480b06b12913ed345cc5fe2257a5b77",
+    "bytes": 25866
+  },
+  {
+    "path": "components/ChatView.tsx",
+    "sha256": "5b1f5e7d9c5f543fa9418f6e845a279088b08bf98bdcd911601c52af13c5dcbe",
+    "bytes": 8956
+  },
+  {
+    "path": "components/CommandPalette.tsx",
+    "sha256": "6d982874f6410be539dab01f50d71a8d750aa41e073276eff3989be82b95cecd",
+    "bytes": 4039
+  },
+  {
+    "path": "components/Dashboard.tsx",
+    "sha256": "d5c5d6af38ce09972d7a47b96f46b96f46b4847fb846f39b56f1c0c95cfd3283",
+    "bytes": 12083
+  },
+  {
+    "path": "components/DashboardView.tsx",
+    "sha256": "7dfa6eb56ece5dd8a4a3d1a3b7f638ef5fe57a6087794de22928e76775f12ff7",
+    "bytes": 4400
+  },
+  {
+    "path": "components/DidacticLegend.tsx",
+    "sha256": "52b3c4ca8a0e99cc37ef695089cfb1652e079bcbb78854e7db851d3d94cb70d5",
+    "bytes": 6095
+  },
+  {
+    "path": "components/GameNeuroLinker.tsx",
+    "sha256": "cf021d3e91595c3aa07a883b9c88696133689d57cec589382b07991b1eea35cf",
+    "bytes": 11263
+  },
+  {
+    "path": "components/MarkdownView.tsx",
+    "sha256": "1e422107416a341b7da5c2535c3ccc68c5274e675eec4d179d3e6218d082be1c",
+    "bytes": 1535
+  },
+  {
+    "path": "components/MessageBubble.tsx",
+    "sha256": "9b4af3f7ede2bd090641934cf7cb2ddba1d4a0ab0f2b5451a17370172fdbb023",
+    "bytes": 5545
+  },
+  {
+    "path": "components/ProfileSetup.tsx",
+    "sha256": "ba96ddc66a6aa118d3118aae8a1fc10811659c759f089f01bbc66097d78adf4f",
+    "bytes": 10023
+  },
+  {
+    "path": "components/TechReport.tsx",
+    "sha256": "03955e88b6e6f5fa862be96f5267259bc2dfe49d6e308849b4647b732a662c2d",
+    "bytes": 15406
+  },
+  {
+    "path": "constants-1.ts",
+    "sha256": "b4633fdc211f9c478bb1c6bcf1322419762fb3660e379bc751413da43bc63ca0",
+    "bytes": 3015
+  },
+  {
+    "path": "constants.ts",
+    "sha256": "2b4bbc92f6e71e291dbb0825cd6a5d5ab02e4ab11c5f69382251a1e00cab9cbd",
+    "bytes": 3584
+  },
+  {
+    "path": "curriculum.ts",
+    "sha256": "a8fc88148a140a720fb55cc305e138301bbb9288da04950c1f65fe41b691eab9",
+    "bytes": 20804
+  },
+  {
+    "path": "data/curriculum.ts",
+    "sha256": "8cbdc5561a08633d7ec48a9028d987fac15effa293a1ff34430fad6240b6b8ad",
+    "bytes": 19431
+  },
+  {
+    "path": "data/ssot.ts",
+    "sha256": "ec57ba74a210f3f64eee5df4989f50cc534fe046a42d28f9d1b7a29753a67b0a",
+    "bytes": 48185
+  },
+  {
+    "path": "diagnostics.ts",
+    "sha256": "5e516f67e5f21eaba0ef21072b7dbd35bc76b15591cf4db65b6474d76785bc47",
+    "bytes": 2985
+  },
+  {
+    "path": "eaiLearnAdapter.ts",
+    "sha256": "09daabfbe521680ca344f656115bfc174db96d410c64b761ae978592f7ee4c8f",
+    "bytes": 17280
+  },
+  {
+    "path": "env.ts",
+    "sha256": "5c480bafe66f8039a79b8ed829201f381fdcfefc9003f914e453fb4ec160e4f4",
+    "bytes": 540
+  },
+  {
+    "path": "geminiService.ts",
+    "sha256": "af44458e483f9f178235753716868d5616c317796815169c1ea42ace7c144dbe",
+    "bytes": 2404
+  },
+  {
+    "path": "identity.ts",
+    "sha256": "66cc0913fe4d591240d51cbed643c424fbd771efde229991e33ca9a54a67a642",
+    "bytes": 267
+  },
+  {
+    "path": "index-1.html",
+    "sha256": "c038337e8bba6697918f576b25afc8d8448000a7dd1f363e632d7412bdf7db8a",
+    "bytes": 1898
+  },
+  {
+    "path": "index-1.tsx",
+    "sha256": "72d6b3b107e21a1064e8ff416c7d940b2571cbe721b7316e8313ba1429dc05ed",
+    "bytes": 1306
+  },
+  {
+    "path": "index-2.tsx",
+    "sha256": "850366f90c85638abab2dd52d1f4a39a59a923c569b9af3e8562fafd5feedae3",
+    "bytes": 349
+  },
+  {
+    "path": "index.css",
+    "sha256": "e689b726e1ca8b50bc7c9a6dc95db609c51f64ae49fd1c72abf99801a0795751",
+    "bytes": 43
+  },
+  {
+    "path": "index.html",
+    "sha256": "43db1f3d1289df6e1b23a3bfc56fb6537a09ba362dcb10bce34721686725f56f",
+    "bytes": 2702
+  },
+  {
+    "path": "index.tsx",
+    "sha256": "f8c951680a5d793a9b2956f32b5cb345e7d5264d438c97cce9d43ce99d7de4ce",
+    "bytes": 423
+  },
+  {
+    "path": "mastery.ts",
+    "sha256": "d02a3b37ce5dd9297bb4e0f6d704c2b2812d0bcb28861b2697a39ed694a7d32b",
+    "bytes": 2127
+  },
+  {
+    "path": "masteryService.ts",
+    "sha256": "38c12f163eef73896605e6bb1d2bc71eee616bf855d94985c08d72c47a3b8309",
+    "bytes": 656
+  },
+  {
+    "path": "metadata-1.json",
+    "sha256": "bfe90ef52af41dbba85ce99c41caab07a1696684c11387ff67d9f50329c02784",
+    "bytes": 86
+  },
+  {
+    "path": "metadata.json",
+    "sha256": "f44218e93ffbccc102c719cc53dd77d90ad20623723a59e6d8ce12ca2b2e4089",
+    "bytes": 201
+  },
+  {
+    "path": "nudge.ts",
+    "sha256": "4acc5fc38cd2b5e13f27cec584f879a7c3d97832833e895deb37b29258b0054b",
+    "bytes": 895
+  },
+  {
+    "path": "orchestrator.ts",
+    "sha256": "28304ff5cc7246939ea8239516f5144935ef382cf2792a14fdf887bc44be1631",
+    "bytes": 6530
+  },
+  {
+    "path": "package-1.json",
+    "sha256": "f4f603b81e38ec8e691a5d50d69761e2165cdebfb0d706c8b7c9bb2606f04012",
+    "bytes": 568
+  },
+  {
+    "path": "package.json",
+    "sha256": "f1ae27b74f3363d8b50986b592733a004b729252a840bb4c56fd1aa14945ab07",
+    "bytes": 384
+  },
+  {
+    "path": "profile.ts",
+    "sha256": "0462f8a7c7573c460fc391e0ce1658e3e8bc86d90c4baed43924d91094adde71",
+    "bytes": 1640
+  },
+  {
+    "path": "profileService.ts",
+    "sha256": "fcc7e14a8a07693c2e1c797ec46b4c6f771cda51adce73e1000deb99547aa877",
+    "bytes": 516
+  },
+  {
+    "path": "routes/AdminPanel.tsx",
+    "sha256": "5b3e765668c8c1eeac06f6a7115f37cf4d3907292869a6281689c3494bdec2eb",
+    "bytes": 742
+  },
+  {
+    "path": "routes/LandingPage.tsx",
+    "sha256": "73f35fbb579b4761d7c596fdcdcb1e8b5d700e5c800819113ae6610111c34009",
+    "bytes": 7195
+  },
+  {
+    "path": "routes/StudentStudio.tsx",
+    "sha256": "cad2e491322d814f49adbd05aca2843bb462806c5241bdafe2f7c8cef8b06d30",
+    "bytes": 186
+  },
+  {
+    "path": "routes/TeacherCockpit.tsx",
+    "sha256": "f49cfd46fd008b76bbfe3e7bd08a8b7f1879b902f4150129109d39d84fa59db4",
+    "bytes": 4730
+  },
+  {
+    "path": "schema.ts",
+    "sha256": "0c3ab91c7e82798853e7f1dfd7c815c84b7d6abaa84ede7fae190d0a5e1c0dfd",
+    "bytes": 1657
+  },
+  {
+    "path": "services/analyticsService.ts",
+    "sha256": "ef0f4f0722eaa8d141509590c880553d3340f37b916fb4f30e53b7b958f57956",
+    "bytes": 376
+  },
+  {
+    "path": "services/apiClient.ts",
+    "sha256": "3ae8e868dd30dc99cc39bf3f4ff92034f38e9cb4826a72e65330213f2ac6f32d",
+    "bytes": 700
+  },
+  {
+    "path": "services/assignmentService.ts",
+    "sha256": "b8fed82aa865faff974bebed15dd5d5fa6af47f073a5aee12164337f36491e99",
+    "bytes": 418
+  },
+  {
+    "path": "services/geminiService.ts",
+    "sha256": "e424c33c64ac867ccb2d972b56aae22f089db7a54ae15da12e298ad971e83df4",
+    "bytes": 6087
+  },
+  {
+    "path": "services/identity.ts",
+    "sha256": "c55f4bb8f024a875920c20db594e0f4db270ee16bf40037db2c9330368d328ed",
+    "bytes": 266
+  },
+  {
+    "path": "services/masteryService.ts",
+    "sha256": "aa92f70259de18592574a4ed5aafd5df69c4d61a6797ba71424e59d0a4843914",
+    "bytes": 434
+  },
+  {
+    "path": "services/profileService.ts",
+    "sha256": "176a7a811d3417318cc5d18eab3a34c75aac56c0bf7aa25c6ecac5166ad146dc",
+    "bytes": 556
+  },
+  {
+    "path": "services/schema.ts",
+    "sha256": "11737c1d5dc082d9ac66eeafbb45ad81edf7bdfe76369d370fbad262a13fbd4c",
+    "bytes": 1656
+  },
+  {
+    "path": "ssot.ts",
+    "sha256": "c46a5a46052767b835c425556900fcb610a726e6ff22a4c05ad4dca8a44f43a0",
+    "bytes": 46082
+  },
+  {
+    "path": "ssotParser.ts",
+    "sha256": "476f9712fa780789f6ca42f14c984d2e419ce74c7d892f6c19939448b522f885",
+    "bytes": 3608
+  },
+  {
+    "path": "store.ts",
+    "sha256": "3d1e3332f414b36f9cc277c4bcba8273c29b54c7bc76c337afdeb7bec9875224",
+    "bytes": 1861
+  },
+  {
+    "path": "tsconfig.json",
+    "sha256": "a65cbf3f423e3d7236f227ecf109c962cbb3f657077fc58ac34f31ad4b2c81d4",
+    "bytes": 483
+  },
+  {
+    "path": "types-1.ts",
+    "sha256": "1c11afc2b4751e6cba052a13b8fd50540d9a5f636460f370ed67d216d9ac9d3e",
+    "bytes": 4137
+  },
+  {
+    "path": "types-2.ts",
+    "sha256": "6f31e3aa2ec1516b72094bcbed58efa85fd0083c8ef06f4b36ef7187256ae5f1",
+    "bytes": 5278
+  },
+  {
+    "path": "types-env.d.ts",
+    "sha256": "a4004194a6780e46be82d0d5b973e0b6e8392f403f95b51179a0ffa6183058bd",
+    "bytes": 240
+  },
+  {
+    "path": "types.ts",
+    "sha256": "9ea3c23ee824708f47d5041c4bd001b84fcd2bbe7a070df395900f2a662d26de",
+    "bytes": 4993
+  },
+  {
+    "path": "utils/diagnostics.ts",
+    "sha256": "8eb2828956422ed02bddab00eb38ac16a0826187552d9ac7128a1944c060e9a9",
+    "bytes": 2649
+  },
+  {
+    "path": "utils/eaiLearnAdapter.ts",
+    "sha256": "f2c076ebf21d672bab53b05b97e2783e1cb8838659261a8292dc46683ca7d10b",
+    "bytes": 13138
+  },
+  {
+    "path": "utils/ssotParser.ts",
+    "sha256": "8f05856eb61678ffb47e8733bfdc3db43fb7ee8e3e7b8b2e48466be0a87f2443",
+    "bytes": 3071
+  },
+  {
+    "path": "vite.config.ts",
+    "sha256": "3256f89a9808716eb7f766db7d60fb6a609dcbe7ae6fe94997661e151edc786d",
+    "bytes": 946
+  }
+]

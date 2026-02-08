@@ -1,0 +1,11 @@
+{
+  "created": "full-fidelity build",
+  "original_zip": "eai-studio-10.0.zip",
+  "notes": "All original files preserved. Additions are under _lovable_pack/ (Supabase schema, prompt, docs).",
+  "inventory": {
+    "original_file_count": 125,
+    "additions_file_count": 2,
+    "original_total_bytes": 917741,
+    "additions_total_bytes": 2655
+  }
+}

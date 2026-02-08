@@ -1,0 +1,21 @@
+TITEL (ENGLISH):
+EAI HUB. SSOT. DIDACTICS FIRST.
+
+CONTEXT
+I uploaded a zip “eai-studio-10.0.zip”. Keep ALL content. Do NOT delete files. If you need a clean app structure, create a NEW folder (e.g., /lovable-app) and copy the required frontend source there, but preserve the original files for reference.
+
+GOAL
+Build a polished, responsive website + prototype UI in Lovable (dark/teal, minimal, dashboard-first), using Dutch copy (except the title).
+Pages:
+1) Landing
+2) Student Studio
+3) Docent Cockpit
+4) Admin/Docs placeholder (optional)
+
+IMPORTANT
+- Prefer the frontend code under /apps/web/src if present.
+- Keep mock data and prepare a Supabase-ready data layer.
+- Never put LLM API keys in the browser.
+
+DELIVERABLE
+A Lovable project that runs cleanly, plus an unchanged /sources snapshot of the original repository content.
